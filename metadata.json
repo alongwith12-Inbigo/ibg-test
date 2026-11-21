@@ -1,0 +1,6 @@
+{
+  "name": "AI 수행평가 설계 점검 도우미",
+  "description": "평가의 기준은 명확하게, 피드백의 방향은 구체적으로 — 교사가 작성한 수행평가 문항과 채점 기준의 명확성, 정합성, 공정성을 점검하고 개선안을 제안하는 도구입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
